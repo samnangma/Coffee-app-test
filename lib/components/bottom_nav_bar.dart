@@ -17,6 +17,7 @@ class MyBottomNavBar extends StatelessWidget {
           tabBackgroundColor: Colors.grey.shade300,
           tabBorderRadius:24 ,
           tabActiveBorder: Border.all(color: Colors.white),
+          // selectedIndex: 1,`
           tabs: [
             GButton(icon: Icons.home,
               text:'Shop',
