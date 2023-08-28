@@ -20,7 +20,7 @@ class _HomepageState extends State<Homepage>{
     });
   }
   //pages
-  final List<Widget> _pages = [
+  final List _pages = [
     // shop page
     ShopPage(),
 
